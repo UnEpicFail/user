@@ -1,0 +1,23 @@
+{
+  "name": "un_epic_fail",
+  "version": "0.0.1",
+  "description": "isolate module for work with users",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnEpicFail/user.git"
+  },
+  "author": "UnEpicFail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnEpicFail/user/issues"
+  },
+  "homepage": "https://github.com/UnEpicFail/user#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}

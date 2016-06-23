@@ -1,0 +1,9 @@
+{
+  "db": {
+    "user": "",
+    "password": "",
+    "database": "",
+    "port": ""
+  },
+  "port": 3000
+}
